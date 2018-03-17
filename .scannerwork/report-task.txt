@@ -1,0 +1,7 @@
+organization=ingsoft2018-gaston-vallasciani
+projectKey=ciaa_firmwarev2_gaston_vallasciani
+serverUrl=https://sonarcloud.io
+serverVersion=7.1.0.37735
+dashboardUrl=https://sonarcloud.io/dashboard/index/ciaa_firmwarev2_gaston_vallasciani
+ceTaskId=AWIzx5-aV4Tcj4EG2dT4
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWIzx5-aV4Tcj4EG2dT4
